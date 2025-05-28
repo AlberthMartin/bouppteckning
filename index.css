@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+html, body{
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background: #FFFFFF;
+  color: #222222
+}
+
+/* Previous colors: royal blue #001e57 for navbar and footer and some buttons*/
+nav{
+  font-family: "Roboto", sans-serif;
+  color:#F4EFEA
+}
+
+h1, h2{
+  font-family: "Merryweather";
+}
+h3{
+  font-family: "Roboto";
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+}
+
+.footer{
+  background-color: #001e57;
+  color:#F4EFEA;
+}
+
+
+
